@@ -1,0 +1,7 @@
+streamlit
+openjij
+pyqubo
+matplotlib
+numpy
+math
+base64
